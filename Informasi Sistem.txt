@@ -1,0 +1,24 @@
+Tubes Basda Kel. 08
+
+-codeigniter
+-template sbadmin2
+
+
+#ADMIN
+#localhost/JAANGAPRL/login/admin
+
+Alamat user : 
+http://localhost/website_tokobaju/administrator
+http://localhost/website_tokobaju/login/admin
+USR2: admin
+PW2: admin
+
+user1 : admin
+pass1 : 123
+*hidupkan wifi untuk fitur kurir dan method getRegencies dll
+
+db_name: db_pakaian
+
+Alamat admin : 
+http://localhost/website_tokobaju/
+
